@@ -33,7 +33,7 @@
    
 # Localhost :
 
-   -  The backend server will be running on http://localhost:5000.
+   -  The backend server will be running on http://localhost:8800.
 
 # API Endpoints:
 
